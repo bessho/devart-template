@@ -2,7 +2,7 @@
 Music of Art
 
 ## Authors
-- Insert main author name, surname, github account
+- Bess Ho
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
